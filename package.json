@@ -1,0 +1,24 @@
+{
+  "name": "dwarf-coconut-disease-detector",
+  "version": "1.0.0",
+  "description": "FREE Cloud Dashboard for Dwarf Coconut Disease Detection",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.53.0",
+    "cloudinary": "^1.41.0",
+    "cors": "^2.8.5",
+    "formidable": "^3.5.1",
+    "multiparty": "^4.2.3",
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
